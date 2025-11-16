@@ -1,0 +1,62 @@
+{
+  "upload_type": "dataset",
+  "title": "Hydrological Dataset on Flood Magnitude and Recurrence Analysis across Kansas, Iowa, Nebraska, and Missouri (1960–2020)",
+  "creators": [
+    {
+      "name": "Mostafiz, Kaiser",
+      "affiliation": "Missouri State University, Ozarks Environmental and Water Resources Institute (OEWRI)",
+      "orcid": ""
+    }
+  ],
+  "description": "This dataset presents a comprehensive analysis of flood magnitude and recurrence across the Lower Missouri River Basin (Missouri, Kansas, Iowa, and Nebraska) from 1960 to 2020. The dataset includes raw, cleaned, and processed hydrological data derived from the U.S. Geological Survey (USGS) National Water Information System (NWIS). Four data tables are provided: (1) raw annual peak flow records, (2) cleaned annual peak flow time series, (3) flood magnitude quantiles, and (4) recurrence interval exceedance counts. These files document the complete workflow from data acquisition to calculated flood magnitudes, using the Log-Pearson Type III distribution following Bulletin 17C guidelines. The dataset supports hydrologic and geomorphic research on climate-induced flood variability and frequency changes in the Midwest.",
+  "keywords": [
+    "hydrology",
+    "flood frequency",
+    "peak flow",
+    "Log-Pearson Type III",
+    "Missouri River Basin",
+    "climate change",
+    "USGS",
+    "streamflow",
+    "hydroclimatology"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://doi.org/10.5281/zenodo.17546764"
+    }
+  ],
+  "dates": {
+    "publication_date": "2025-11-06"
+  },
+  "locations": [
+    {
+      "place": "Lower Missouri River Basin, USA",
+      "description": "Covers parts of Missouri, Kansas, Iowa, and Nebraska.",
+      "lat": 40.0,
+      "lon": -96.5
+    }
+  ],
+  "temporal_coverage": {
+    "start_date": "1960-01-01",
+    "end_date": "2020-12-31"
+  },
+  "contributors": [
+    {
+      "name": "U.S. Geological Survey (USGS)",
+      "type": "DataProvider"
+    }
+  ],
+  "funding": [
+    {
+      "funder_name": "Missouri State University, Ozarks Environmental and Water Resources Institute (OEWRI)"
+    }
+  ],
+  "contact": {
+    "email": "km4359s@missouristate.edu"
+  }
+}
